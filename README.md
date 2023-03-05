@@ -1,6 +1,6 @@
-A small part of implementation and few ideas you see in the notebook have been taken as reference from the below provided links. I would be very happy if this contribution is helpful for someone.
+A small part of implementation and few ideas you see in the notebook have been taken as reference from the provided links below. I would be very happy if this contribution is helpful for someone.
 
-List of links in helping me to complete this project:
+List of links helped me to complete this project:
 1. https://github.com/boudinfl/pke
 2. Brown, Jonathan & Frishkoff, Gwen & Eskenazi, Maxine. (2005). Automatic 
    Question Generation for Vocabulary Assessment.. 10.3115/1220575.1220678
